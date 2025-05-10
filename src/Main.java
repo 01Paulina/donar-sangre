@@ -2,7 +2,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner pt = new Scanner(System.in);
+
         double Edad=0;
+        
         System.out.println("ingrese su edad:");
         Edad= pt.nextDouble();
 
